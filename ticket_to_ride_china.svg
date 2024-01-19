@@ -5,7 +5,7 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="ticket_to_ride_china.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    x="0px"
    y="0px"
    width="1277.6632mm"
@@ -56,25 +56,25 @@
 
 
 <sodipodi:namedview
-   inkscape:window-x="-11"
+   inkscape:window-x="59"
    id="namedview2059"
-   inkscape:window-width="2240"
-   inkscape:window-height="1294"
+   inkscape:window-width="1861"
+   inkscape:window-height="1027"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
    inkscape:current-layer="layer5"
    showgrid="false"
-   inkscape:cy="3037.7307"
+   inkscape:cy="2207.2155"
    pagecolor="#ffffff"
    objecttolerance="10"
-   inkscape:cx="3288.7536"
-   inkscape:zoom="0.70710678"
+   inkscape:cx="2291.0968"
+   inkscape:zoom="0.70337489"
    guidetolerance="10"
    gridtolerance="10"
    borderopacity="1"
    bordercolor="#666666"
-   inkscape:window-maximized="1"
-   inkscape:window-y="-11"
+   inkscape:window-maximized="0"
+   inkscape:window-y="25"
    inkscape:pagecheckerboard="0"
    inkscape:showpageshadow="2"
    inkscape:deskcolor="#d1d1d1"
@@ -2291,8 +2291,7 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Connection"
-   style="stroke-width:3.64724;stroke-dasharray:none"
-   sodipodi:insensitive="true"><path
+   style="stroke-width:3.64724;stroke-dasharray:none"><path
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 3381.6418,1838.7862 -47.9404,170.7875"
      id="path1636" /><path
@@ -2567,7 +2566,8 @@
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 2252.5472,3169.6295 149.8134,141.8235"
      id="path1636-47"
-     sodipodi:nodetypes="cc" /><path
+     sodipodi:nodetypes="cc"
+     inkscape:label="path1636-47" /><path
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 2718.9665,3187.6071 -269.6644,129.8385"
      id="path1636-927"
@@ -2579,7 +2579,8 @@
      style="fill:#916f7c;stroke:#916f7c;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 2920.0806,3598.9096 -217.4053,248.9625"
      id="path1636-927-3-2"
-     sodipodi:nodetypes="cc" /><path
+     sodipodi:nodetypes="cc"
+     inkscape:label="path1636-927-3-2" /><path
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 2450.301,3348.407 459.4281,218.7278"
      id="path1636-46"
@@ -2623,6 +2624,10 @@
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 3261.1201,3013.0308 -493.1012,142.6241"
      id="path1636-039"
+     sodipodi:nodetypes="cc" /><path
+     style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2489.1355,2731.389 1915.6204,2256.3928"
+     id="path1636-03-2"
      sodipodi:nodetypes="cc" /></g><g
    inkscape:groupmode="layer"
    id="layer2"
@@ -3174,7 +3179,7 @@
        sodipodi:role="line"
        id="tspan1291"
        x="2967.7095"
-       y="1981.7333"></tspan></text><text
+       y="1981.7333" /></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2954.7095"
@@ -3390,7 +3395,7 @@
        sodipodi:role="line"
        id="tspan2569"
        x="2193.6128"
-       y="2012.9703">1</tspan></text><text
+       y="2012.9703">2</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1945.7095"
@@ -3408,7 +3413,7 @@
        sodipodi:role="line"
        id="tspan3567"
        x="1821.7095"
-       y="2029.7333">4</tspan></text><text
+       y="2029.7333">3</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1397.7095"
@@ -3858,4 +3863,11 @@
        sodipodi:role="line"
        id="tspan6176"
        x="3323.6992"
-       y="3558.2917">3+1彩</tspan></text></g></svg>
+       y="3558.2917">3+1彩</tspan></text><text
+     xml:space="preserve"
+     style="font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Normal';fill:#ff0000;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="1884.5531"
+     y="2175.2437"
+     id="text3569-7"><tspan
+       id="tspan2335"
+       sodipodi:role="line">5</tspan></text></g></svg>
