@@ -5,7 +5,7 @@
    version="1.1"
    id="svg2"
    sodipodi:docname="ticket_to_ride_china.svg"
-   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    x="0px"
    y="0px"
    width="1277.6632mm"
@@ -56,25 +56,25 @@
 
 
 <sodipodi:namedview
-   inkscape:window-x="59"
+   inkscape:window-x="-11"
    id="namedview2059"
-   inkscape:window-width="1861"
-   inkscape:window-height="1027"
+   inkscape:window-width="2240"
+   inkscape:window-height="1294"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
    inkscape:current-layer="layer5"
    showgrid="false"
-   inkscape:cy="2207.2155"
+   inkscape:cy="1795.476"
    pagecolor="#ffffff"
    objecttolerance="10"
-   inkscape:cx="2291.0968"
-   inkscape:zoom="0.70337489"
+   inkscape:cx="2438.8716"
+   inkscape:zoom="0.49736115"
    guidetolerance="10"
    gridtolerance="10"
    borderopacity="1"
    bordercolor="#666666"
-   inkscape:window-maximized="0"
-   inkscape:window-y="25"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-11"
    inkscape:pagecheckerboard="0"
    inkscape:showpageshadow="2"
    inkscape:deskcolor="#d1d1d1"
@@ -2291,7 +2291,8 @@
    inkscape:groupmode="layer"
    id="layer1"
    inkscape:label="Connection"
-   style="stroke-width:3.64724;stroke-dasharray:none"><path
+   style="stroke-width:3.64724;stroke-dasharray:none"
+   sodipodi:insensitive="true"><path
      style="fill:none;stroke:#000000;stroke-width:11.3386;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 3381.6418,1838.7862 -47.9404,170.7875"
      id="path1636" /><path
@@ -2664,8 +2665,7 @@
      sodipodi:nodetypes="cc" /></g><g
    inkscape:groupmode="layer"
    id="layer6"
-   inkscape:label="Train Templates"
-   sodipodi:insensitive="true"><g
+   inkscape:label="Train Templates"><g
      id="g12371-8"
      transform="matrix(0.31430582,0,0,0.31430582,4206.2486,3014.711)"
      inkscape:label="tunnel_icon"
@@ -3123,7 +3123,7 @@
        style="stroke-width:1.24288" /></g></g><g
    inkscape:groupmode="layer"
    id="layer5"
-   inkscape:label="Trains"
+   inkscape:label="Trains Draft"
    transform="translate(242.66858,208.15771)"
    style="fill:#ff0000"><text
      xml:space="preserve"
@@ -3134,7 +3134,7 @@
        sodipodi:role="line"
        id="tspan1221"
        x="3200.7095"
-       y="1670.7333">1</tspan></text><text
+       y="1670.7333">1白,1黄</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3103.7095"
@@ -3152,7 +3152,7 @@
        sodipodi:role="line"
        id="tspan1279"
        x="3020.7095"
-       y="1615.7333">1</tspan></text><text
+       y="1615.7333">1橙</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2891.7095"
@@ -3161,7 +3161,7 @@
        sodipodi:role="line"
        id="tspan1283"
        x="2891.7095"
-       y="1715.7333">2</tspan></text><text
+       y="1715.7333">2红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2785.7095"
@@ -3170,7 +3170,7 @@
        sodipodi:role="line"
        id="tspan1287"
        x="2785.7095"
-       y="1991.7333">3</tspan></text><text
+       y="1991.7333">3蓝</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2967.7095"
@@ -3197,7 +3197,7 @@
        sodipodi:role="line"
        id="tspan1299"
        x="3115.6799"
-       y="1717.3997">2</tspan></text><text
+       y="1717.3997">2粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3073.2534"
@@ -3206,7 +3206,7 @@
        sodipodi:role="line"
        id="tspan1303"
        x="3073.2534"
-       y="1974.7866">3</tspan></text><text
+       y="1974.7866">3黄</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3281.1428"
@@ -3215,7 +3215,7 @@
        sodipodi:role="line"
        id="tspan1307"
        x="3281.1428"
-       y="1962.0587">4</tspan></text><text
+       y="1962.0587">4黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3069.011"
@@ -3224,7 +3224,7 @@
        sodipodi:role="line"
        id="tspan1311"
        x="3069.011"
-       y="2314.198">3</tspan></text><text
+       y="2314.198">3橙</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3165.1775"
@@ -3233,7 +3233,7 @@
        sodipodi:role="line"
        id="tspan1315"
        x="3165.1775"
-       y="2143.0781">2</tspan></text><text
+       y="2143.0781">2绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3332.9663"
@@ -3242,7 +3242,7 @@
        sodipodi:role="line"
        id="tspan1319"
        x="3332.9663"
-       y="2249.144">1,1</tspan></text><text
+       y="2249.144">2红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3567.5713"
@@ -3251,7 +3251,7 @@
        sodipodi:role="line"
        id="tspan1323"
        x="3567.5713"
-       y="2402.2812">2</tspan></text><text
+       y="2402.2812">2蓝</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3568.2283"
@@ -3260,7 +3260,7 @@
        sodipodi:role="line"
        id="tspan1327"
        x="3568.2283"
-       y="2165.7056">4</tspan></text><text
+       y="2165.7056">4粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3351.8535"
@@ -3269,7 +3269,7 @@
        sodipodi:role="line"
        id="tspan1331"
        x="3351.8535"
-       y="1864.478">2</tspan></text><text
+       y="1864.478">2绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3517.3167"
@@ -3296,7 +3296,7 @@
        sodipodi:role="line"
        id="tspan2038"
        x="3692.7095"
-       y="2503.7334">2</tspan></text><text
+       y="2503.7334">2白</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3498.7095"
@@ -3305,7 +3305,7 @@
        sodipodi:role="line"
        id="tspan2042"
        x="3498.7095"
-       y="2515.7334">3</tspan></text><text
+       y="2515.7334">3黄</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy';display:inline"
      x="3193.7095"
@@ -3314,7 +3314,7 @@
        sodipodi:role="line"
        id="tspan2054"
        x="3193.7095"
-       y="2439.7334">3</tspan></text><text
+       y="2439.7334">3白</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2850.7095"
@@ -3323,7 +3323,7 @@
        sodipodi:role="line"
        id="tspan2058"
        x="2850.7095"
-       y="2139.7334">3</tspan></text><text
+       y="2139.7334">3红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2691.5579"
@@ -3341,7 +3341,7 @@
        sodipodi:role="line"
        id="tspan2545"
        x="2356.2471"
-       y="2616.8396">2</tspan></text><text
+       y="2616.8396">2绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2326.5486"
@@ -3350,7 +3350,7 @@
        sodipodi:role="line"
        id="tspan2549"
        x="2326.5486"
-       y="2448.5483">1</tspan></text><text
+       y="2448.5483">1黄</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2456.6565"
@@ -3359,7 +3359,7 @@
        sodipodi:role="line"
        id="tspan2553"
        x="2456.6565"
-       y="2515.0164">2</tspan></text><text
+       y="2515.0164">2黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2565.5508"
@@ -3377,7 +3377,7 @@
        sodipodi:role="line"
        id="tspan2561"
        x="2484.9407"
-       y="2085.0955">3</tspan></text><text
+       y="2085.0955">3黄</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2336.4482"
@@ -3386,7 +3386,7 @@
        sodipodi:role="line"
        id="tspan2565"
        x="2336.4482"
-       y="2218.0315">3</tspan></text><text
+       y="2218.0315">3粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2193.6128"
@@ -3395,7 +3395,7 @@
        sodipodi:role="line"
        id="tspan2569"
        x="2193.6128"
-       y="2012.9703">2</tspan></text><text
+       y="2012.9703">2黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1945.7095"
@@ -3404,7 +3404,7 @@
        sodipodi:role="line"
        id="tspan3563"
        x="1945.7095"
-       y="1829.7333">3</tspan></text><text
+       y="1829.7333">3黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1821.7095"
@@ -3413,7 +3413,7 @@
        sodipodi:role="line"
        id="tspan3567"
        x="1821.7095"
-       y="2029.7333">3</tspan></text><text
+       y="2029.7333">3绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1397.7095"
@@ -3476,7 +3476,7 @@
        sodipodi:role="line"
        id="tspan3595"
        x="2813.7095"
-       y="1591.7333">1</tspan></text><text
+       y="1591.7333">1绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2543.7095"
@@ -3485,7 +3485,7 @@
        sodipodi:role="line"
        id="tspan3599"
        x="2543.7095"
-       y="1699.7333">3</tspan></text><text
+       y="1699.7333">3黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2357.7095"
@@ -3494,7 +3494,7 @@
        sodipodi:role="line"
        id="tspan3603"
        x="2357.7095"
-       y="1915.7333">2</tspan></text><text
+       y="1915.7333">2红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3173.7095"
@@ -3512,7 +3512,7 @@
        sodipodi:role="line"
        id="tspan3611"
        x="3417.7095"
-       y="1489.7333">4</tspan></text><text
+       y="1489.7333">4蓝</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3467.7095"
@@ -3521,7 +3521,7 @@
        sodipodi:role="line"
        id="tspan3615"
        x="3467.7095"
-       y="1317.7333">5</tspan></text><text
+       y="1317.7333">5黑</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3715.7095"
@@ -3539,7 +3539,7 @@
        sodipodi:role="line"
        id="tspan3623"
        x="3655.7095"
-       y="1513.7333">2</tspan></text><text
+       y="1513.7333">2橙</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3783.7095"
@@ -3548,7 +3548,7 @@
        sodipodi:role="line"
        id="tspan3627"
        x="3783.7095"
-       y="995.73328">2</tspan></text><text
+       y="995.73328">2白</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3857.7095"
@@ -3584,7 +3584,7 @@
        sodipodi:role="line"
        id="tspan3643"
        x="3577.7095"
-       y="2989.7334">1隧</tspan></text><text
+       y="2989.7334">1黄隧</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3395.7095"
@@ -3611,7 +3611,7 @@
        sodipodi:role="line"
        id="tspan4196"
        x="3319.7095"
-       y="2535.7334">2</tspan></text><text
+       y="2535.7334">2粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3417.7095"
@@ -3638,7 +3638,7 @@
        sodipodi:role="line"
        id="tspan4208"
        x="3031.7095"
-       y="2652.7334">2</tspan></text><text
+       y="2652.7334">2绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3046.7095"
@@ -3647,7 +3647,7 @@
        sodipodi:role="line"
        id="tspan4212"
        x="3046.7095"
-       y="3019.7334">4</tspan></text><text
+       y="3019.7334">4红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3158.7095"
@@ -3656,7 +3656,7 @@
        sodipodi:role="line"
        id="tspan4216"
        x="3158.7095"
-       y="3278.7334">1,1</tspan></text><text
+       y="3278.7334">1粉,1白</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3261.7095"
@@ -3665,7 +3665,7 @@
        sodipodi:role="line"
        id="tspan4220"
        x="3261.7095"
-       y="2846.7334">3</tspan></text><text
+       y="2846.7334">3蓝</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3272.7095"
@@ -3674,7 +3674,7 @@
        sodipodi:role="line"
        id="tspan4224"
        x="3272.7095"
-       y="3161.7334">3</tspan></text><text
+       y="3161.7334">3橙</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2970.7095"
@@ -3692,7 +3692,7 @@
        sodipodi:role="line"
        id="tspan4236"
        x="2851.7095"
-       y="3289.7334">3</tspan></text><text
+       y="3289.7334">3蓝</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2903.7095"
@@ -3737,7 +3737,7 @@
        sodipodi:role="line"
        id="tspan4260"
        x="2332.7095"
-       y="3038.7334">2</tspan></text><text
+       y="3038.7334">2粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2067.7095"
@@ -3764,7 +3764,7 @@
        sodipodi:role="line"
        id="tspan4272"
        x="2597.7095"
-       y="3162.7334">3</tspan></text><text
+       y="3162.7334">3橙</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2733.7095"
@@ -3782,7 +3782,7 @@
        sodipodi:role="line"
        id="tspan4280"
        x="2465.7095"
-       y="2830.7334">2隧</tspan></text><text
+       y="2830.7334">2蓝隧</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="216.54204"
@@ -3791,16 +3791,16 @@
        sodipodi:role="line"
        id="tspan6144"
        x="216.54204"
-       y="1334.1478">2</tspan></text><text
+       y="1334.1478">2绿</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
-     x="2504.7397"
-     y="1365.2606"
+     x="2472.5701"
+     y="1383.3561"
      id="text6150"><tspan
        sodipodi:role="line"
        id="tspan6148"
-       x="2504.7397"
-       y="1365.2606">3</tspan></text><text
+       x="2472.5701"
+       y="1383.3561">3白</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="1944.7112"
@@ -3809,7 +3809,7 @@
        sodipodi:role="line"
        id="tspan6152"
        x="1944.7112"
-       y="3314.0471">3</tspan></text><text
+       y="3314.0471">3粉</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="2558.4797"
@@ -3818,7 +3818,7 @@
        sodipodi:role="line"
        id="tspan6156"
        x="2558.4797"
-       y="3497.8948">3</tspan></text><text
+       y="3497.8948">3红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3935.9238"
@@ -3827,7 +3827,7 @@
        sodipodi:role="line"
        id="tspan6160"
        x="3935.9238"
-       y="590.27155">3</tspan></text><text
+       y="590.27155">3红</tspan></text><text
      xml:space="preserve"
      style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
      x="3817.1299"
@@ -3865,9 +3865,42 @@
        x="3323.6992"
        y="3558.2917">3+1彩</tspan></text><text
      xml:space="preserve"
-     style="font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Normal';fill:#ff0000;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-     x="1884.5531"
-     y="2175.2437"
-     id="text3569-7"><tspan
-       id="tspan2335"
-       sodipodi:role="line">5</tspan></text></g></svg>
+     style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
+     x="1640.8102"
+     y="1678.493"
+     id="text762"><tspan
+       sodipodi:role="line"
+       id="tspan760"
+       x="1640.8102"
+       y="1678.493">1彩</tspan></text><text
+     xml:space="preserve"
+     style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
+     x="1721.848"
+     y="1859.0511"
+     id="text816"><tspan
+       sodipodi:role="line"
+       id="tspan814"
+       x="1721.848"
+       y="1859.0511">3红</tspan></text><text
+     xml:space="preserve"
+     style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
+     x="1906.6714"
+     y="2241.4932"
+     id="text874"><tspan
+       sodipodi:role="line"
+       id="tspan872"
+       x="1906.6714"
+       y="2241.4932">5白</tspan></text><text
+     xml:space="preserve"
+     style="font-weight:900;font-size:42.6667px;line-height:1.25;font-family:'Source Han Serif SC';-inkscape-font-specification:'Source Han Serif SC, Heavy'"
+     x="3361.502"
+     y="3037.2234"
+     id="text878"><tspan
+       sodipodi:role="line"
+       id="tspan876"
+       x="3361.502"
+       y="3037.2234">3隧</tspan></text></g><g
+   inkscape:groupmode="layer"
+   id="layer8"
+   inkscape:label="Trains"
+   sodipodi:insensitive="true" /></svg>
